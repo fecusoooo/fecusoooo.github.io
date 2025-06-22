@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Fecusoooo's Block
+title: Fecusoooo's Blog
 
 # Your name to show in the footer
 author: fecusoooo
@@ -21,10 +21,7 @@ author: fecusoooo
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  # Notes：
 
 ################
 # --- Logo --- #
@@ -52,12 +49,8 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  github: fecusoooo
+  twitter: ？
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
