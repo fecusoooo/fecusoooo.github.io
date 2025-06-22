@@ -1,16 +1,3 @@
----
-layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
----
+泥嚎，我是fecusoooo，是一个在信科专业课压迫下热爱看小说和摸鱼画画x的不务正业的学生。bolg主要用于学期结束上传各种笔记资料（或许因为侵权不会上传资料hhh）或者过去写的项目（主要是电脑放不下那么多东西x），可能也会放一些自己乱七八糟的想法。
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### My story？
