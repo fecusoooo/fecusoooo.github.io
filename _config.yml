@@ -23,6 +23,8 @@ navbar-links:
   About Me: "aboutme"
   # Notes：
 
+custom_css: assets/css/custom.css
+
 ################
 # --- Logo --- #
 ################
